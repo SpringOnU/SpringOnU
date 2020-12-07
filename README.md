@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.springonu.vercel.app/api/pin/?username=SpringOnU" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=SpringOnU&theme=highcontrast&show_icons=true&count_private=true)
