@@ -1,4 +1,5 @@
 ### Hi there 👋
+### & SPRING IS COMING!!
 
 <!--
 **SpringOnU/SpringOnU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpringOnU&theme=dracula&show_icons=true&count_private=true" />
+<img align="center" src="https:/https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&hide=javascript,html" />
