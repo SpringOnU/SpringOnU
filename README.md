@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-github-readme-stats-git-master.springonu.vercel.app
+<img align="center" src="https://github-readme-stats.springonu.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
