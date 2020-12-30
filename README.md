@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### & SPRING IS COMING!!🌸
 
+在此之前 让我们一起愚弄月亮吧
+<img src="https://raw.githubusercontent.com/SpringOnU/SpringOnU/main/IMG_20201230_184320_edit_280586827660309.jpg.JPG" align="right"/>
+
 <!--
 **SpringOnU/SpringOnU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
