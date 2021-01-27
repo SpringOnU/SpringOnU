@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpringOnU&theme=dracula&show_icons=true&count_private=true" float="right" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpringOnU&theme=dracula&show_icons=true&count_private=true" float="right" width="200px"/>
