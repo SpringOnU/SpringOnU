@@ -1,5 +1,4 @@
-### Hi there 👋
-### & SPRING IS COMING!!🌸
+### Hi there 🌸
 
 <!--
 **SpringOnU/SpringOnU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
